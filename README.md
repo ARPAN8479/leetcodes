@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ARPAN8479/leetcodes/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/ARPAN8479/leetcodes/tree/main/0020-valid-parentheses/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +37,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/ARPAN8479/leetcodes/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ARPAN8479/leetcodes/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ARPAN8479/leetcodes/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
