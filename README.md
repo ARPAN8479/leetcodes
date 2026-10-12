@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/ARPAN8479/leetcodes/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/ARPAN8479/leetcodes/tree/main/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
