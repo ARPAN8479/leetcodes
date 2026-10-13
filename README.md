@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ARPAN8479/leetcodes/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/ARPAN8479/leetcodes/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/ARPAN8479/leetcodes/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/ARPAN8479/leetcodes/tree/main/0344-reverse-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/ARPAN8479/leetcodes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ARPAN8479/leetcodes/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ARPAN8479/leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
+| [0344-reverse-string](https://github.com/ARPAN8479/leetcodes/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
