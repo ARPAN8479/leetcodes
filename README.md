@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/ARPAN8479/leetcodes/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ARPAN8479/leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/ARPAN8479/leetcodes/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ARPAN8479/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/ARPAN8479/leetcodes/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/ARPAN8479/leetcodes/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/ARPAN8479/leetcodes/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/ARPAN8479/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ARPAN8479/leetcodes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/ARPAN8479/leetcodes/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ARPAN8479/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
