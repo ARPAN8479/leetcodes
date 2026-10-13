@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ARPAN8479/leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/ARPAN8479/leetcodes/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ARPAN8479/leetcodes/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ARPAN8479/leetcodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ARPAN8479/leetcodes/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ARPAN8479/leetcodes/tree/main/0088-merge-sorted-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ARPAN8479/leetcodes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
