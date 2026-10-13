@@ -25,11 +25,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ARPAN8479/leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/ARPAN8479/leetcodes/tree/main/0011-container-with-most-water/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ARPAN8479/leetcodes/tree/main/0088-merge-sorted-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ARPAN8479/leetcodes/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ARPAN8479/leetcodes/tree/main/0011-container-with-most-water/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ARPAN8479/leetcodes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ARPAN8479/leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -55,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/ARPAN8479/leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ARPAN8479/leetcodes/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
