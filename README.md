@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/ARPAN8479/leetcodes/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ARPAN8479/leetcodes/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/ARPAN8479/leetcodes/tree/main/0013-roman-to-integer/) | Easy |
+| [0412-fizz-buzz](https://github.com/ARPAN8479/leetcodes/tree/main/0412-fizz-buzz/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/ARPAN8479/leetcodes/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/ARPAN8479/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ARPAN8479/leetcodes/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/ARPAN8479/leetcodes/tree/main/0412-fizz-buzz/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/ARPAN8479/leetcodes/tree/main/0412-fizz-buzz/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ARPAN8479/leetcodes/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
