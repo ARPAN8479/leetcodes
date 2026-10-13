@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ARPAN8479/leetcodes/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/ARPAN8479/leetcodes/tree/main/0013-roman-to-integer/) | Easy |
+| [0141-linked-list-cycle](https://github.com/ARPAN8479/leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ARPAN8479/leetcodes/tree/main/0011-container-with-most-water/) | Medium |
+| [0141-linked-list-cycle](https://github.com/ARPAN8479/leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +47,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ARPAN8479/leetcodes/tree/main/0020-valid-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/ARPAN8479/leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/ARPAN8479/leetcodes/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
